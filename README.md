@@ -1,7 +1,7 @@
 # Machine Learning for System and Control
 A final project of 5SC28-Machine Learning for System and Control 2021/2022 course at TU Eindhoven. The project is all about the unbalanced disk modelling and controlling it so that it can swing up and also having a $\pm10^{\circ}$ after reaching the $180^{\circ}$ swing-up for the multi-target policy.
 
-![Setup](UnbalancedDisc1.jpg)
+![Setup](UnbalancedDisc1.jpeg)
 
 ## Data-driven modelling (System Identification) 
 
