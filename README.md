@@ -11,5 +11,5 @@ The modelling here are using the NARX model structure, where it is implemented i
 The overall objective is to control an unbalanced disk to swing-up or making a swing-up policy (see [Gym Unbalacned Disk](https://github.com/GerbenBeintema/gym-unbalanced-disk) library by Gerben Beintema). There are several methods that we have done, which are:
 1. [DQN](./DQN.ipynb) (Deep Q-Network) with `stable-baselines3`
 2. [SAC](./SAC.ipynb) (Soft Actor-Critic) with `stable-baselines3`
-3. [Classical Q-Learning](./ReinforcementL.ipynb) (Tabular Q-learning)
+3. [Classical Q-Learning](./clas-Q-learning.ipynb) (Tabular Q-learning)
 4. [Multi_SAC](./Multi_SAC.ipynb) for multi-target policy $\pm10^{\circ}$ using the SAC method with `stable-baselines3`
